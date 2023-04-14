@@ -1,0 +1,2 @@
+# bordel
+tout mon bazar
